@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"[Monokai Vibrant]": {
+				"activityBar.foreground": "#ffffff",
+				"diffEditor.removedTextBackground": "#ff00dd30",
+				"diffEditor.insertedTextBackground": "#00ffd520"
+			},
+			"editor.lineHighlightBackground": "#1073cf2d",
+			"editor.lineHighlightBorder": "#9fced11f",
+			"activityBar.background": "#640000",
+			"titleBar.activeBackground": "#8B0000",
+			"titleBar.activeForeground": "#FFFBFB",
+			"titleBar.inactiveBackground": "#640000",
+			"titleBar.inactiveForeground": "#FFFBFB",
+			"statusBar.background": "#640000",
+			"statusBar.foreground": "#FFFBFB",
+			"statusBar.debuggingBackground": "#640000",
+			"statusBar.debuggingForeground": "#FFFBFB",
+			"statusBar.noFolderBackground": "#640000",
+			"statusBar.noFolderForeground": "#FFFBFB"
+		},
+		"windowColors.baseColor": "sienna"
+	}
+}
